@@ -29,7 +29,7 @@ github:
   username: psdjung # change to your GitHub username
 
 twitter:
-  username: psdjung # change to your Twitter username
+  username: mysonceo # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,11 @@ social:
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/psdjung # change to your Twitter homepage
-    - https://github.com/psdjung # change to your GitHub homepage
+    - https://github.com/psdjung/mysonceo/
+    - https://x.com/mysonceo
+    - https://linkedin.com/company/mysonceo
+    - https://www.facebook.com/mysonceo
+    - https://www.instagram.com/mysonceo
 
 # Site Verification Settings
 webmaster_verifications:
